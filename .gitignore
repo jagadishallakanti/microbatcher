@@ -1,0 +1,13 @@
+# Dependency directories (remove the comment below to include it)
+# vendor/
+
+# JetBrains IDEs
+.idea/
+
+# VSCode
+.vscode/
+
+# Folders
+bin/
+pkg/
+dist/
